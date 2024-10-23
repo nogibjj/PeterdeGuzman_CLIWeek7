@@ -1,0 +1,10 @@
+/Users/pdeguz01/Documents/git/PeterdeGuzman_CLIWeek7/votesqlite/target/release/deps/librustls_pki_types-179a01a2dd91a8bd.rmeta: /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/lib.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/base64.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/server_name.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/pem.rs
+
+/Users/pdeguz01/Documents/git/PeterdeGuzman_CLIWeek7/votesqlite/target/release/deps/librustls_pki_types-179a01a2dd91a8bd.rlib: /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/lib.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/base64.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/server_name.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/pem.rs
+
+/Users/pdeguz01/Documents/git/PeterdeGuzman_CLIWeek7/votesqlite/target/release/deps/rustls_pki_types-179a01a2dd91a8bd.d: /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/lib.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/base64.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/server_name.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/pem.rs
+
+/Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/lib.rs:
+/Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/base64.rs:
+/Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/server_name.rs:
+/Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/pem.rs:

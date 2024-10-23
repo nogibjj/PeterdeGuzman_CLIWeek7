@@ -1,0 +1,11 @@
+/Users/pdeguz01/Documents/git/PeterdeGuzman_CLIWeek7/votesqlite/target/debug/deps/libbzip2-4f144dd38751c95f.rmeta: /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/lib.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/mem.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/bufread.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/read.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/write.rs
+
+/Users/pdeguz01/Documents/git/PeterdeGuzman_CLIWeek7/votesqlite/target/debug/deps/libbzip2-4f144dd38751c95f.rlib: /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/lib.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/mem.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/bufread.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/read.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/write.rs
+
+/Users/pdeguz01/Documents/git/PeterdeGuzman_CLIWeek7/votesqlite/target/debug/deps/bzip2-4f144dd38751c95f.d: /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/lib.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/mem.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/bufread.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/read.rs /Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/write.rs
+
+/Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/lib.rs:
+/Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/mem.rs:
+/Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/bufread.rs:
+/Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/read.rs:
+/Users/pdeguz01/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/write.rs:
